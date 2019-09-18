@@ -30,3 +30,6 @@ Easist way to run the code is download CodeBlocks, install and run it.
 	- Lab 4
 		- task1.cpp
 			- 3D Array Testing.
+	- Assignment 1
+		- assignmnet1.cpp
+			- Creating ArrayUtility class, functions such as findMin and finMax and their pos. 
