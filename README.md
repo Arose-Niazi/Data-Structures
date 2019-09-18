@@ -17,4 +17,16 @@ Easist way to run the code is download CodeBlocks, install and run it.
 			- Sum of an array using recursive function.
 		- task4.cpp
 			- Maximum, minimum of an array using recursive function.
-			
+	- Lab 2
+		- task1.cpp
+			- Pointers Testing.
+		- task2.cpp
+			- Employee class creation, and it's basic use. 
+	- Lab 3
+		- task1.cpp
+			- Inserting a number between an array.
+		- task2.cpp
+			- Insertion Sort.
+	- Lab 4
+		- task1.cpp
+			- 3D Array Testing.
