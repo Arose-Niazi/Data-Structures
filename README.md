@@ -43,6 +43,59 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 	- Lab 6
 		- InfixToPostfix.java
 		- PostFixTesting.java
+	- Lab 7
+		- Queue.java
+		- Stack.java
+		- Task1.java
+	- Lab 8
+		- LinkedList.java
+	- Lab 9
+		- BST.java
+	- Lab 10 - Assignment
+		- BST.java
+		- Stack.java
+	- Lab 11
+		- MinBinaryHeapTree.java
+	- Lab 14
+		- MinBinaryHeapTree.java
+	- Lab 15
+		- BinaryHeapTree.java - Max Binary Heap Tree
+	- Lab 16
+		- BubbleSort.java
+		- InsertionSort.java
+		- Runner.java
+	- Lab 17
+		- Graph.java
+		- Vertice.java
+		- Runner.java
+	- Lab 18 - Assignment
+		- HashTable.java
+		- Runner.java
+	- Lab 18 - Quiz
+		- Graph.java
+		- Vertice.java
+		- Runner.java
+		- Queue.java
+	- Lab 19
+		- HashTable.java
+		- LinkedList.java
+		- Runner.java
+	
+		
+		
 	- Assignment 1
 		- assignmnet1.cpp
 			- Creating ArrayUtility class, functions such as findMin and finMax and their pos. 
+	- Assignment 2
+		- LinkedList.java		
+		
+	- S2 Helping Material
+	- Terminal Learning
+		- Circular Linked List
+			- LinkedListC.java
+			- Node.java
+			- Runner.java
+		- Queue Linked List
+			- LinkedListQ.java
+			- Node.java
+			- Runner.java
