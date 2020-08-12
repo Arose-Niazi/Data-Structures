@@ -99,5 +99,8 @@ Easist way to run the code is download JDK, install the compiler, and run it.
 			- LinkedListQ.java
 			- Node.java
 			- Runner.java
+	- Terminal
+		- StringQueue.java
+		- Scheduling.java
 - Extra Learning
 	- CircularLinkedList.cpp
