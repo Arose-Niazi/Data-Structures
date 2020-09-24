@@ -1,5 +1,4 @@
-# Data Structures (FA19)
-Instructor: Saira Aslam
+# Data Structures (FA19) - Instructor: Saira Aslam
 <p align="center"><img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=c%2B%2B' ><img src='https://img.shields.io/badge/Programmed%20in-C++-blue.svg?style=popout-square&logo=c%2B%2B' ><img src='https://img.shields.io/badge/Compiled%20with-GNU%20GCC-blue.svg?style=popout-square&logo=c%2B%2B' ></p>
 <p align="center"><img src='https://img.shields.io/badge/Developer-Arose%20Niazi-blue.svg?style=popout-square&logo=Java' ><img src='https://img.shields.io/badge/Programmed%20in-Java%208-blue.svg?style=popout-square&logo=Java' ><img src='https://img.shields.io/badge/Programmed%20in-Java-blue.svg?style=popout-square&logo=Java' ></p>
 
